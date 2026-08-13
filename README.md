@@ -1,4 +1,9 @@
 [![Modrinth](https://img.shields.io/badge/Modrinth-NukeFishing-brightgreen)](https://modrinth.com/plugin/xrayspyglass)
+## 💬 Support
+
+Found a bug or need help? [Join the Discord](https://discord.gg/ZYPbDzf7Sc) to report it.
+
+[![Discord](https://img.shields.io/badge/Discord-Join-5865F2?logo=discord&logoColor=white)](https://discord.gg/ZYPbDzf7Sc)
 # XraySpyglass 🔭👁️
 
 Turn a regular spyglass into a **player-detecting X-Ray Spyglass**!
