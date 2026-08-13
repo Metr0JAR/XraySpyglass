@@ -1,3 +1,4 @@
+[![Modrinth](https://img.shields.io/badge/Modrinth-NukeFishing-brightgreen)](https://modrinth.com/plugin/xrayspyglass)
 # XraySpyglass 🔭👁️
 
 Turn a regular spyglass into a **player-detecting X-Ray Spyglass**!
